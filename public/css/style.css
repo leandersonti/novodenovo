@@ -1,0 +1,48 @@
+.corpo {
+    margin: 0px 0px 0px 120px ;
+    background:     background: /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#ffffff+0,f6f6f6+47,ededed+100;White+3D+%231 */
+    background: #ffffff; /* Old browsers */
+    background: -moz-linear-gradient(top,  #ffffff 0%, #f6f6f6 47%, #ededed 100%); /* FF3.6+ */
+    background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#ffffff), color-stop(47%,#f6f6f6), color-stop(100%,#ededed)); /* Chrome,Safari4+ */
+    background: -webkit-linear-gradient(top,  #ffffff 0%,#f6f6f6 47%,#ededed 100%); /* Chrome10+,Safari5.1+ */
+    background: -o-linear-gradient(top,  #ffffff 0%,#f6f6f6 47%,#ededed 100%); /* Opera 11.10+ */
+    background: -ms-linear-gradient(top,  #ffffff 0%,#f6f6f6 47%,#ededed 100%); /* IE10+ */
+    background: linear-gradient(to bottom,  #ffffff 0%,#f6f6f6 47%,#ededed 100%); /* W3C */
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffffff', endColorstr='#ededed',GradientType=0 ); /* IE6-9 */;
+    height: 600px;
+}
+
+.container {
+    background: /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#88bfe8+0,70b0e0+100;Blue+3D+%2317 */
+    background: #88bfe8; /* Old browsers */
+    background: -moz-linear-gradient(top,  #88bfe8 0%, #70b0e0 100%); /* FF3.6+ */
+    background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#88bfe8), color-stop(100%,#70b0e0)); /* Chrome,Safari4+ */
+    background: -webkit-linear-gradient(top,  #88bfe8 0%,#70b0e0 100%); /* Chrome10+,Safari5.1+ */
+    background: -o-linear-gradient(top,  #88bfe8 0%,#70b0e0 100%); /* Opera 11.10+ */
+    background: -ms-linear-gradient(top,  #88bfe8 0%,#70b0e0 100%); /* IE10+ */
+    background: linear-gradient(to bottom,  #88bfe8 0%,#70b0e0 100%); /* W3C */
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#88bfe8', endColorstr='#70b0e0',GradientType=0 ); /* IE6-9 */
+;
+    height: 10,00px;
+}
+
+.head {
+    margin: 180px 0px 0px 120px;
+    height: 160px;
+    background:#cccccc;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+
+.menu-tab{
+    margin:20px 0px 0px 0px;
+}
+.tabela_dados{
+    margin: 20px auto;
+}
+
+.caixa{
+    width:400px;
+    height: 250px;
+    background-color:#7aba7b ;
+}
